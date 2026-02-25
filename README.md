@@ -32,7 +32,7 @@ Atualmente, estou em uma jornada de transição de carreira, unindo minha base a
 
 ### 📫 Como me encontrar:
 
-* **LinkedIn:** [linkedin.com/in/seu-perfil](www.linkedin.com/in/joão-nogueira-clemente-2327121a5)
+* **LinkedIn:** [www.linkedin.com/in/joão-nogueira-clemente-2327121a5]
 * **Portfólio:** Confira meus repositórios para ver o **Licita-Hunter** e o **Removedor de Fundo de Imagens** em ação!
 
 ---
