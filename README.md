@@ -25,8 +25,8 @@ Atualmente, estou em uma jornada de transição de carreira, unindo minha base a
 
 ### 📊 Estatísticas do GitHub:
 
-![Status do meu GitHub](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=radical)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=radical)
+![Status do meu GitHub](https://github-readme-stats.vercel.app/api?username=Docas32&show_icons=true&theme=radical)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Docas32&layout=compact&theme=radical)
 
 ---
 
