@@ -8,7 +8,7 @@ Atualmente, estou em uma jornada de transição de carreira, unindo minha base a
 ---
 
 ### 🛠️ No que estou trabalhando agora:
-- 🤖 **Projeto Licita-Hunter**: Uma ferramenta em Python com multiprocessing para análise e classificação automática de editais de licitação.
+- 🤖 **Sistema de Previsão de Preços de Carros**
 - ⚖️ **Automador Jurídico**: Aplicação Streamlit que utiliza LangChain e Gemini 1.5 Flash para sumarizar documentos legais.
 - 📅 **Desafio 11 Meses de Código**: Comprometido em programar todos os dias (desde Fev/2026) para acelerar minha evolução em engenharia de dados e ML.
 
